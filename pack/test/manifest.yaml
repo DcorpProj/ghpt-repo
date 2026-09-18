@@ -1,0 +1,6 @@
+name: "Test"
+cmd: "ghpt_test"
+main: "test.py"
+type: "python"
+included_files:
+  - test.txt
